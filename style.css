@@ -1,0 +1,94 @@
+.header {
+    overflow: hidden;
+    background-color: peachpuff;
+    color: white;
+    }
+.header-left{
+    float: left;
+}    
+.header a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 25px;
+    border-radius: 4px;
+  } 
+.header a:hover {
+    background-color: lavenderblush;
+    color: lightgray;
+  }
+
+body {
+    background-color: peachpuff;
+  }
+  
+.navbar.navbar {
+  background-color: peachpuff;
+    color: white;
+    font-weight: bold;
+    width: inherit;
+    margin-bottom: 30px;
+   }
+
+
+h1 {
+  height: 500px;
+  color: white;
+  font-family: cursive;
+  background-image:url(./Assets/Portfoliobackground.jpg);
+  background-repeat: none;
+  background-size: cover; 
+  padding-left: 30px;
+  padding-top: 420px;
+  background-color: peachpuff;
+  margin: 0;
+}
+
+
+
+.align-self-center{
+  border-radius: 30%;
+  height: 10%;
+  background-color: peachpuff;
+}
+.media {
+  padding: inherit;
+  background: peachpuff;
+  font-weight: bold;
+  color: white;
+  font-size: inherit;
+}
+/* .media-body {
+  margin-right: 30px;
+  position: relative;
+}  */
+/* p {
+width: 300px;
+margin: 4px 0px 8px;
+text-align: center;
+} */
+.align-self-center {
+  padding: 30px;
+}
+h5{
+  text-align:center;
+  font-size: 50px;
+}
+
+
+.card-deck {
+  background-color: peachpuff;
+  width: inherit;
+  padding-right: inherit;
+}
+.card-body {
+  background-color: pink;
+}
+
+#footer {
+  background-color: peachpuff;
+  padding-left: 800px;
+}
